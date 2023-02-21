@@ -27,7 +27,7 @@ I am 14 years old. I do Frontend and some Fullstack development. Working on Vue.
 ### Socials
                   
                   
-<p align="left">
+<p align="center">
                           
 <a href="https://discord.com/users/ZhenyaDziza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
