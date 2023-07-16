@@ -4,13 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am 14 years old. I do Frontend and some Fullstack development. Working on Vue.js and express.js
+I am 15 years old. I do Frontend and some Fullstack development. Working on Vue.js and express.js
 
 *   🌍  I'm based in Ukraine
 *   ✉️  You can contact me at [dzizawebprogram@gmail.com](mailto:dzizawebprogram@gmail.com)
 *   🤝  I'm open to collaborating on any project
 *   ⚡  I will be glad to chat and code together!
-<a href="https://www.github.com/ZenyaDAR" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ZenyaDAR?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -27,13 +26,14 @@ I am 14 years old. I do Frontend and some Fullstack development. Working on Vue.
 ### Socials
                   
                   
-<p align="left" display="flex">
+<p dislay="flex">
                           
-<a href="https://discord.com/users/ZhenyaDziza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+  <a href="https://discord.com/users/ZhenyaDziza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
-<a href="https://www.github.com/ZenyaDAR" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/ZenyaDAR" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
-<a href="http://www.instagram.com/zenyadziza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+  <a href="http://www.instagram.com/zenyadziza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />    </a>
+</p>
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/ZhenyaDAR"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
