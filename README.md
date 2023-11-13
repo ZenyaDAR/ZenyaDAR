@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am 15 years old. I do Frontend and some Fullstack development. Working on Vue.js and express.js
-
+I am 15 years old. I do Frontend and some Fullstack development.
 *   🌍  I'm based in Ukraine
 *   ✉️  You can contact me at [dzizawebprogram@gmail.com](mailto:dzizawebprogram@gmail.com)
 *   🤝  I'm open to collaborating on any project
