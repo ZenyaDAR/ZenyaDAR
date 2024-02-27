@@ -31,5 +31,3 @@ I am 15 years old. I do Frontend and some Fullstack development.
   <a href="http://www.instagram.com/zenyadziza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />    </a>
 </p>
 
-### Support Me
-<a href="https://www.buymeacoffee.com/ZhenyaDAR"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
