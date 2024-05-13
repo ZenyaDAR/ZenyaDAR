@@ -22,4 +22,4 @@ I am 16 years old. I do Frontend and some Fullstack development.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
+[![Eugene`s profile views](https://u8views.com/api/v1/github/profiles/61661329/views/day-week-month-total-count.svg)](https://u8views.com/github/ZenyaDAR)
