@@ -21,6 +21,5 @@ I am 16 years old. I do Frontend and some Fullstack development.
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZenyaDAR&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 [![Dziza Zhenya profile views](https://u8views.com/api/v1/github/profiles/86112194/views/day-week-month-total-count.svg)](https://u8views.com/github/ZenyaDAR)
