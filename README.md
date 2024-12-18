@@ -23,3 +23,5 @@ I am 16 years old. I do Frontend and some Fullstack development.
 </p>
 
 [![Dziza Zhenya profile views](https://u8views.com/api/v1/github/profiles/86112194/views/day-week-month-total-count.svg)](https://u8views.com/github/ZenyaDAR)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/zhenyadev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zhenyadev" /></a></p><br><br>
