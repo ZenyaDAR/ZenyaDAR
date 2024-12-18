@@ -6,7 +6,7 @@ Frontend Developer
 
 I am 16 years old. I do Frontend and some Fullstack development.
 *   🌍  I'm based in Ukraine
-*   ✉️  You can contact me at [dzizawebprogram@gmail.com](mailto:dzizawebprogram@gmail.com)
+*   ✉️  You can contact me at Telegram [@ZhenyaDev](https://t.me/ZhenyaDev)
 *   🤝  I'm open to collaborating on any project
 *   ⚡  I will be glad to chat and code together!
 ### Skills 
