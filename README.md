@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am 16 years old. I do Frontend and some Fullstack development.
+I am 17 years old. I do Frontend and some Fullstack development.
 *   🌍  I'm based in Poland
 *   ✉️  You can contact me at Telegram [@ZhenyaDev](https://t.me/ZhenyaDev)
 *   🤝  I'm open to collaborating on any project
