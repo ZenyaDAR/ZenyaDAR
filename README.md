@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 I am 17 years old. I do Frontend and some Fullstack development.
-*   🌍  I'm based in Poland
+*   🌍  I'm based in Poland (But from Ukraine)
 *   ✉️  You can contact me at Telegram [@ZhenyaDev](https://t.me/ZhenyaDev)
 *   🤝  I'm open to collaborating on any project
 *   ⚡  I will be glad to chat and code together!
